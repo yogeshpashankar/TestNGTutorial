@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="12" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-02T20:04:41 IST" name="Suite" finished-at="2025-04-02T20:04:42 IST" duration-ms="725">
+    <groups>
+    </groups>
+    <test started-at="2025-04-02T20:04:41 IST" name="Test" finished-at="2025-04-02T20:04:42 IST" duration-ms="207">
+      <class name="test.Class_2">
+        <test-method signature="test1()[pri:0, instance:test.Class_2@74235045]" started-at="2025-04-02T20:04:42 IST" name="test1" finished-at="2025-04-02T20:04:42 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- test.Class_2 -->
+      <class name="test.Class_1">
+        <test-method signature="Demo2()[pri:0, instance:test.Class_1@3590fc5b]" started-at="2025-04-02T20:04:42 IST" name="Demo2" finished-at="2025-04-02T20:04:42 IST" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo2 -->
+        <test-method signature="demo()[pri:0, instance:test.Class_1@3590fc5b]" started-at="2025-04-02T20:04:42 IST" name="demo" finished-at="2025-04-02T20:04:42 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+      </class> <!-- test.Class_1 -->
+    </test> <!-- Test -->
+    <test started-at="2025-04-02T20:04:42 IST" name="Car loan" finished-at="2025-04-02T20:04:42 IST" duration-ms="82">
+      <class name="test.Class_3">
+        <test-method signature="LoginAPI()[pri:0, instance:test.Class_3@510f3d34]" started-at="2025-04-02T20:04:42 IST" name="LoginAPI" finished-at="2025-04-02T20:04:42 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginAPI -->
+        <test-method signature="MbileLogin()[pri:0, instance:test.Class_3@510f3d34]" started-at="2025-04-02T20:04:42 IST" name="MbileLogin" finished-at="2025-04-02T20:04:42 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MbileLogin -->
+        <test-method signature="Weblogin()[pri:0, instance:test.Class_3@510f3d34]" started-at="2025-04-02T20:04:42 IST" name="Weblogin" finished-at="2025-04-02T20:04:42 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Weblogin -->
+      </class> <!-- test.Class_3 -->
+    </test> <!-- Car loan -->
+    <test started-at="2025-04-02T20:04:42 IST" name="Home Loan" finished-at="2025-04-02T20:04:42 IST" duration-ms="93">
+      <class name="test.Class_4">
+        <test-method signature="HomeLoginAPI()[pri:0, instance:test.Class_4@fa4c865]" started-at="2025-04-02T20:04:42 IST" name="HomeLoginAPI" finished-at="2025-04-02T20:04:42 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomeLoginAPI -->
+        <test-method signature="HomeMbileLogin()[pri:0, instance:test.Class_4@fa4c865]" started-at="2025-04-02T20:04:42 IST" name="HomeMbileLogin" finished-at="2025-04-02T20:04:42 IST" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomeMbileLogin -->
+        <test-method signature="HomeWeblogin()[pri:0, instance:test.Class_4@fa4c865]" started-at="2025-04-02T20:04:42 IST" name="HomeWeblogin" finished-at="2025-04-02T20:04:42 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomeWeblogin -->
+      </class> <!-- test.Class_4 -->
+    </test> <!-- Home Loan -->
+    <test started-at="2025-04-02T20:04:42 IST" name="Car Loan Web" finished-at="2025-04-02T20:04:42 IST" duration-ms="89">
+      <class name="test.Class_3">
+        <test-method signature="LoginAPI()[pri:0, instance:test.Class_3@d35dea7]" started-at="2025-04-02T20:04:42 IST" name="LoginAPI" finished-at="2025-04-02T20:04:42 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginAPI -->
+        <test-method signature="Weblogin()[pri:0, instance:test.Class_3@d35dea7]" started-at="2025-04-02T20:04:42 IST" name="Weblogin" finished-at="2025-04-02T20:04:42 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Weblogin -->
+      </class> <!-- test.Class_3 -->
+    </test> <!-- Car Loan Web -->
+  </suite> <!-- Suite -->
+</testng-results>
