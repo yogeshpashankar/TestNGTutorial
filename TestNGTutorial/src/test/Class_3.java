@@ -12,7 +12,7 @@ public class Class_3 {
 	}
 	
 	@Test
-	public void MbileLogin() {
+	public void MobileLogin() {
 	
 		//Appium Code
 		System.out.println("Mobilelogin success");

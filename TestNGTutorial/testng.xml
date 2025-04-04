@@ -26,9 +26,19 @@
   	<classes>
   		<class name="test.Class_3">
   			<methods>
-  				<exclude name="MbileLogin"></exclude>
+  				<exclude name="MobileLogin"></exclude>
   			</methods>
   		</class>
   	</classes>
+  </test>
+  
+  <test name ="test include">
+	  <classes>
+		  <class name="test.Class_4">
+			  <methods>
+				  <include name="HomeLoginAPI"/>
+			  </methods>
+		  </class>
+	  </classes>
   </test>
 </suite> <!-- Suite -->
